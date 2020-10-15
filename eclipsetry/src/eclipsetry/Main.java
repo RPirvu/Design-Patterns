@@ -1,17 +1,17 @@
-package com.company;
+package eclipsetry;
 
 public class Main {
-    public static void main(String[] args){
-
+	public static void main(String[] args){
+		
         Book discoTitanic = new Book("Disco Titanic");
         Author rpGheo = new Author("Radu Pavel Gheo");
         Author siu = new Author("Slave In Utero");
         discoTitanic.addAuthor(rpGheo);
         discoTitanic.addAuthor(siu);
-
+        
         int indexChapterOne = discoTitanic.createChapter("Capitolul 1");
         Chapter chp1 = discoTitanic.getChapter(indexChapterOne);
-
+        
         int indexChapterTwo = discoTitanic.createChapter("Capitolul 2");
         Chapter chp2 = discoTitanic.getChapter(indexChapterTwo);
         int indexSubChapterOneOne = chp1.createSubChapter("Subcapitolul 1.1");
@@ -25,7 +25,7 @@ public class Main {
         scOneOne.CreateNewTable("Table 1");
         scOneOne.CreateNewParagraph("Paragraph 5");
         discoTitanic.print();
-
+        
 
     }
 }
