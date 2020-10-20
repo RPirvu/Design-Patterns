@@ -1,6 +1,6 @@
-package com.company;
+package lab2;
 
-public class Image {
+public class Image implements Element {
     private String name;
 
     Image (String name){

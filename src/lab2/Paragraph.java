@@ -1,6 +1,7 @@
-package com.company;
+package lab2;
 
-public class Paragraph {
+
+public class Paragraph implements  Element{
 
     private String name;
 

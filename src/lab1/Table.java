@@ -1,4 +1,6 @@
-package com.company;
+package lab1;
+
+
 
 public class Table {
     private String name;
