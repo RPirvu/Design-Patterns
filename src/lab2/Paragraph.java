@@ -10,7 +10,7 @@ public class Paragraph implements  Element{
     }
     public void print()
     {
-        System.out.print("    Paragraph: " + this.name);
+        System.out.println("Paragraph: " + this.name);
         System.out.println();
     }
 

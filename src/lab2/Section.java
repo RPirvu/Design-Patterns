@@ -20,7 +20,7 @@ public class Section implements Element {
 
     public void print(){
 
-        System.out.print(this.sectionTitle);
+        System.out.println(this.sectionTitle);
         for(Element i : this.content){
             i.print();
         }

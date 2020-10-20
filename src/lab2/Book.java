@@ -34,13 +34,13 @@ public class Book {
 
             for(int i = 0; i < content.size()-1; i++) {
                 content.get(i).print();
-                System.out.print(", ");
+                System.out.println(", ");
             }
-            content.get(content.size()-1).print(); System.out.println(".");
+            content.get(content.size()-1).print(); System.out.println();
         }
         else {
 
-            content.get(content.size()-1).print(); System.out.println(".");
+            content.get(content.size()-1).print(); System.out.println();
         }
     }
 
