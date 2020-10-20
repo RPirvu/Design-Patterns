@@ -29,12 +29,13 @@ public class Book {
     }
 
     private void printContent() {
-        System.out.print("Content: ");
+        System.out.println("Content: ");
+
         if(content.size() > 1) {
 
             for(int i = 0; i < content.size()-1; i++) {
                 content.get(i).print();
-                System.out.println(", ");
+//                System.out.print();
             }
             content.get(content.size()-1).print(); System.out.println();
         }

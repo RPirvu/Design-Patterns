@@ -10,7 +10,7 @@ public class Table implements Element{
     }
     public void print()
     {
-        System.out.print("    Table: " + this.name);
-        System.out.println();
+        System.out.println("Table: " + this.name);
+
     }
 }

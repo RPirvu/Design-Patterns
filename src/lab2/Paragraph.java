@@ -11,7 +11,7 @@ public class Paragraph implements  Element{
     public void print()
     {
         System.out.println("Paragraph: " + this.name);
-        System.out.println();
+
     }
 
 }

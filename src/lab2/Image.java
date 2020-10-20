@@ -8,7 +8,7 @@ public class Image implements Element {
     }
     public void print()
     {
-        System.out.print("Image: " + this.name);
-//        System.out.println();
+        System.out.println("Image: " + this.name);
+
     }
 }
