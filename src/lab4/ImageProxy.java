@@ -14,17 +14,16 @@ public class ImageProxy implements Element {
     ImageProxy() {
     }
 
-//    Image loadImage() {
-//        if(realImage == null){
-//            realImage = new Image(url);
-//        }
-//        return realImage;
-//    };
-
-    public void print(){
+    Image loadImage(String url) {
         if(realImage == null){
             realImage = new Image(url);
         }
-        realImage.print();
+        return realImage;
+    };
+
+    public void print(){
+
+        loadImage(url).print();
+
     }
 }
