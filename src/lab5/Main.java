@@ -14,7 +14,7 @@ public class Main {
         System.out.println();
         cap1.print();
         p1.setAlignStrategy(new AlignCenter());
-        p2.setAlignStrategy(new AlignRight());
+        p2.setAlignStrategy(new AlignCenter());
         p3.setAlignStrategy(new AlignLeft());
 
         System.out.println();

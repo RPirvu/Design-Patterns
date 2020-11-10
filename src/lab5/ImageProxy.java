@@ -4,9 +4,11 @@ public class ImageProxy implements Element {
 
     Image realImage;
     private String url;
+    String dim;
 
-    ImageProxy(String name) {
+    ImageProxy(String name, String dim) {
         this.url = name;
+        this.dim = dim;
     }
 
     ImageProxy() {
