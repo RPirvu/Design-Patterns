@@ -1,3 +1,4 @@
+package lab6.services;
 public class BookStatistics implements Visitor {
     private int imagesProxy = 0;
     private int paragraphs = 0;

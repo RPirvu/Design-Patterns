@@ -1,3 +1,4 @@
+package lab6.services;
 public class AlignCenter implements AlignStrategy{
     String content = "";
 

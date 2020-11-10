@@ -1,3 +1,4 @@
+package lab6.services;
 import lab6.services.JPGImageLoader;
 
 public class ImageLoaderFactory implements ImageLoader {

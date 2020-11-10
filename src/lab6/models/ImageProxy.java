@@ -1,3 +1,4 @@
+package lab6.models;
 public class ImageProxy implements Element {
     String name;
 

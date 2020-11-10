@@ -1,3 +1,4 @@
+package lab6.models;
 import java.util.ArrayList;
 
 public class Chapter {

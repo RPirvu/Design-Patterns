@@ -1,3 +1,4 @@
+package lab6.models;
 public class Paragraph implements Element {
     private String name;
     private AlignStrategy TextAlignment;

@@ -1,3 +1,4 @@
+package lab6.models;
 public interface Visitor {
     public abstract void visit(Image image);
     public abstract void visit(ImageProxy imageProxy);

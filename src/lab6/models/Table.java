@@ -1,3 +1,4 @@
+package lab6.models;
 public class Table implements Element {
     
         private String name;

@@ -1,3 +1,4 @@
+package lab6.models;
 import java.util.Vector;
 
 public class Section implements Element {
