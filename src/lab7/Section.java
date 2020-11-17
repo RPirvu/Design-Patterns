@@ -1,4 +1,5 @@
-package lab6.models;
+package lab7;
+
 import java.util.Vector;
 
 public class Section implements Element {
@@ -7,11 +8,11 @@ public class Section implements Element {
 
 
     
-    public int add(Element element) {
+    int add(Element element) {
         content.add(element);
         return content.size();
     }
-    public void remove(Element element) {
+    void remove(Element element) {
         for(Element i: content) {
             content.remove(i);
         }

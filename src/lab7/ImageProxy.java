@@ -1,8 +1,9 @@
-package lab6.models;
+package lab7;
+
 public class ImageProxy implements Element {
     String name;
 
-    public ImageProxy(String name) {
+    ImageProxy(String name) {
         this.name=name;
     }
 

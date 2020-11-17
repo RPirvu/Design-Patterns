@@ -1,10 +1,10 @@
-package lab6.models;
-import lab6.services.*;
+package lab7;
+
 public class Paragraph implements Element {
     private String name;
-    private AlignStrategy TextAlignment;
+    private Author.AlignStrategy TextAlignment;
     
-    public Paragraph(String name)  {
+    Paragraph(String name)  {
         this.name=name;
     }
 
@@ -17,7 +17,7 @@ public class Paragraph implements Element {
         }
     }
 
-    public void setAlignStrategy(AlignStrategy alignment) {
+    public void setAlignStrategy(Author.AlignStrategy alignment) {
         this.TextAlignment = alignment;
     }
 
