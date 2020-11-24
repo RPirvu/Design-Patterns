@@ -1,9 +1,11 @@
 package lab6.models;
+import lab7.SubChapter;
+
 import java.util.ArrayList;
 
 public class Chapter {
     private String name;
-    private ArrayList<SubChapter> subChapters = new ArrayList<>();
+    public ArrayList<SubChapter> subChapters = new ArrayList<>();
 
     Chapter(String name){
         this.name=name;
