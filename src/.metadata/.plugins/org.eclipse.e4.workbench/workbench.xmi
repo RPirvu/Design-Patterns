@@ -1555,7 +1555,7 @@
   <commands xmi:id="__VlR4g0xEeuZPZc-pDA-TA" elementId="org.eclipse.oomph.p2.ui.SearchRequirements" commandName="Search Requirements" category="__VjczA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR4w0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.correction.convertLocalToField.assist" commandName="Quick Assist - Convert local variable to field" description="Invokes quick assist and selects 'Convert local variable to field'" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR5A0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.correction.addThrowsDecl" commandName="Quick Fix - Add throws declaration" description="Invokes quick assist and selects 'Add throws declaration'" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VlR5Q0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.junitPluginShortcut.coverage" commandName="Coverage JUnit Plug-in Test" description="Coverage JUnit Plug-in Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VlR5Q0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.junitPluginShortcut.coverage" commandName="Coverage JUnit Plug-in main.Test" description="Coverage JUnit Plug-in main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR5g0xEeuZPZc-pDA-TA" elementId="org.eclipse.oomph.setup.editor.openDiscoveredType" commandName="Open Discovered Type" category="__VjcuQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR5w0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.deletePreviousWord" commandName="Delete Previous Word" description="Delete the previous word" category="__Vjcug0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR6A0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.search.declarations.in.workspace" commandName="Declaration in Workspace" description="Search for declarations of the selected element in the workspace" category="__VjcyQ0xEeuZPZc-pDA-TA"/>
@@ -1568,7 +1568,7 @@
   <commands xmi:id="__VlR7g0xEeuZPZc-pDA-TA" elementId="org.eclipse.ant.ui.toggleMarkOccurrences" commandName="Toggle Ant Mark Occurrences" description="Toggles mark occurrences in Ant editors" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR7w0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.navigate.addToWorkingSet" commandName="Add to Working Set" description="Adds the selected object to a working set." category="__Vjcsg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VlR8A0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.team.Revert" commandName="Revert Commit" category="__VjczQ0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__Vl48A0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.debug" commandName="Debug JUnit Test" description="Debug JUnit Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__Vl48A0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.debug" commandName="Debug JUnit main.Test" description="Debug JUnit main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vl48Q0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.wikitext.ui.editor.showCheatSheetCommand" commandName="Show Markup Cheat Sheet" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vl48g0xEeuZPZc-pDA-TA" elementId="org.eclipse.team.ui.TeamSynchronizingPerspective" commandName="Team Synchronizing" description="Open the Team Synchronizing Perspective" category="__Vjczg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vl48w0xEeuZPZc-pDA-TA" elementId="org.eclipse.ant.ui.open.declaration.command" commandName="Open Declaration" description="Opens the Ant editor on the referenced element" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
@@ -1630,7 +1630,7 @@
     <parameters xmi:id="__VmgEQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.wikitext.ui.targetLanguage" name="TargetLanguage" optional="false"/>
   </commands>
   <commands xmi:id="__VmgEg0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.tasks.ui.command.showToolTip" commandName="Show Tooltip Description" category="__VjcvA0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VmgEw0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.junitShortcut.coverage" commandName="Coverage JUnit Test" description="Coverage JUnit Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VmgEw0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.junitShortcut.coverage" commandName="Coverage JUnit main.Test" description="Coverage JUnit main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VmgFA0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.context.ui.commands.task.copyContext" commandName="Copy Context" category="__Vjcuw0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VmgFQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.window.showViewMenu" commandName="Show View Menu" description="Show the view menu" category="__VjcxA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VmgFg0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.team.Commit" commandName="Commit..." category="__VjczQ0xEeuZPZc-pDA-TA"/>
@@ -1739,7 +1739,7 @@
   <commands xmi:id="__VnuPg0xEeuZPZc-pDA-TA" elementId="org.eclipse.quickdiff.toggle" commandName="Quick Diff Toggle" description="Toggles quick diff information display on the line number ruler" category="__Vjcsg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VnuPw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.deleteNext" commandName="Delete Next" description="Delete the next character" category="__Vjcug0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VnuQA0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.FetchGerritChange" commandName="Fetch From Gerrit" category="__VjczQ0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VnuQQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.junitRAPShortcut.coverage" commandName="Coverage RAP JUnit Test" description="Coverage RAP JUnit Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VnuQQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.junitRAPShortcut.coverage" commandName="Coverage RAP JUnit main.Test" description="Coverage RAP JUnit main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VnuQg0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.toggleShowKeys" commandName="Toggle Show Key Bindings" description="Shows key binding when command is invoked" category="__VjcxA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VnuQw0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.tasks.ui.command.SynchronizeAll" commandName="Synchronize Changed" category="__VjcvA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VnuRA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.debug.ui.commands.Watch" commandName="Watch" description="Create new watch expression" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
@@ -1778,7 +1778,7 @@
   <commands xmi:id="__VoVSw0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.team.Discard" commandName="Replace with File in Index" category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VoVTA0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.RepositoriesViewCreateBranch" commandName="Create Branch..." category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VoVTQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.RepositoriesViewCopyPath" commandName="Copy Path to Clipboard" category="__VjczQ0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VoVTg0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.builds.ui.command.NewTaskFromTest" commandName="New Task From Test" category="__Vjctw0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VoVTg0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.builds.ui.command.NewTaskFromTest" commandName="New Task From main.Test" category="__Vjctw0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VoVTw0xEeuZPZc-pDA-TA" elementId="org.eclipse.oomph.setup.editor.perform.startup" commandName="Perform Setup Tasks (Startup)" category="__VjcuQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VoVUA0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.showRulerAnnotationInformation" commandName="Show Ruler Annotation Tooltip" description="Displays annotation information for the caret line in a focused hover" category="__Vjcug0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VoVUQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.browser.openBrowser" commandName="Open Browser" description="Opens the default web browser." category="__VjcxA0xEeuZPZc-pDA-TA">
@@ -1835,7 +1835,7 @@
   <commands xmi:id="__Vo8ZA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.extract.superclass" commandName="Extract Superclass" description="Extract a set of members into a new superclass and try to use the new superclass" category="__VjcxQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vo8ZQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.wst.xml.ui.reload.dependencies" commandName="Reload Dependencies" description="Reload Dependencies" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vo8Zg0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" commandName="Show Selected Element Only" description="Show Selected Element Only" category="__VjcxA0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__Vo8Zw0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.rerunFailedFirst" commandName="Rerun JUnit Test - Failures First" description="Rerun JUnit Test - Failures First" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__Vo8Zw0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.rerunFailedFirst" commandName="Rerun JUnit main.Test - Failures First" description="Rerun JUnit main.Test - Failures First" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vo8aA0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.file.export" commandName="Export" description="Export" category="__VjcwQ0xEeuZPZc-pDA-TA">
     <parameters xmi:id="__Vo8aQ0xEeuZPZc-pDA-TA" elementId="exportWizardId" name="Export Wizard"/>
   </commands>
@@ -1904,10 +1904,10 @@
   <commands xmi:id="__VpjUQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.team.SimplePush" commandName="Push to Upstream" category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjUg0xEeuZPZc-pDA-TA" elementId="org.eclipse.debug.ui.commands.addMemoryMonitor" commandName="Add Memory Block" description="Add memory block" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjUw0xEeuZPZc-pDA-TA" elementId="org.eclipse.pde.ui.organizeManifest" commandName="Organize Manifests" description="Cleans up plug-in manifest files" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VpjVA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.run" commandName="Run JUnit Test" description="Run JUnit Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VpjVA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.run" commandName="Run JUnit main.Test" description="Run JUnit main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjVQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.PushHeadToGerrit" commandName="Push Current Head to Gerrit" category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjVg0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.selectAll" commandName="Select All" description="Select all" category="__Vjcsg0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VpjVw0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.swtBotJunitShortcut.coverage" commandName="Coverage SWTBot Test" description="Coverage SWTBot Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VpjVw0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.swtBotJunitShortcut.coverage" commandName="Coverage SWTBot main.Test" description="Coverage SWTBot main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjWA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.show.outline" commandName="Quick Outline" description="Show the quick outline for the editor input" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjWQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.goto.next.member" commandName="Go to Next Member" description="Move the caret to the next member of the compilation unit" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VpjWg0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.project.rebuildProject" commandName="Rebuild Project" description="Rebuild the selected projects" category="__Vjcxw0xEeuZPZc-pDA-TA"/>
@@ -2014,7 +2014,7 @@
   <commands xmi:id="__VqKiw0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.debug.ui.commands.AllInstances" commandName="All Instances" description="View all instances of the selected type loaded in the target VM" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKjA0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.history.OpenInCommitViewerCommand" commandName="Open in Commit Viewer" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKjQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.toggle.comment" commandName="Toggle Comment" description="Toggle comment the selected lines" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VqKjg0xEeuZPZc-pDA-TA" elementId="org.eclipse.m2e.actions.LifeCycleTest.run" commandName="Run Maven Test" description="Run Maven Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VqKjg0xEeuZPZc-pDA-TA" elementId="org.eclipse.m2e.actions.LifeCycleTest.run" commandName="Run Maven main.Test" description="Run Maven main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKjw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.window.savePerspective" commandName="Save Perspective As" description="Save the current perspective" category="__VjcxA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKkA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.correction.assignParamToField.assist" commandName="Quick Assist - Assign parameter to field" description="Invokes quick assist and selects 'Assign parameter to field'" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKkQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.command.configureTrace" commandName="Configure Git Debug Trace" category="__VjczQ0xEeuZPZc-pDA-TA"/>
@@ -2022,7 +2022,7 @@
   <commands xmi:id="__VqKkw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.navigate.linkWithEditor" commandName="Toggle Link with Editor" description="Toggles linking of a view's selection with the active editor's selection" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKlA0xEeuZPZc-pDA-TA" elementId="org.eclipse.wst.sse.ui.open.file.from.source" commandName="Open Selection" description="Open an editor on the selected link" category="__Vjcsg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKlQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.open.hierarchy" commandName="Quick Hierarchy" description="Show the quick hierarchy of the selected element" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VqKlg0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults" commandName="Show Test Results" category="__Vjctw0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VqKlg0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults" commandName="Show main.Test Results" category="__Vjctw0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKlw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode" commandName="Toggle Block Selection" description="Toggle block / column selection in the current text editor" category="__Vjcsg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKmA0xEeuZPZc-pDA-TA" elementId="org.eclipse.wst.sse.ui.goto.matching.bracket" commandName="Matching Character" description="Go to Matching Character" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VqKmQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu" commandName="Show Refactor Quick Menu" description="Shows the refactor quick menu" category="__VjcxQ0xEeuZPZc-pDA-TA"/>
@@ -2257,13 +2257,13 @@
   <commands xmi:id="__VsmoA0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.history.CompareVersionsInTree" commandName="Compare in Tree" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VsmoQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.epp.package.common.contribute" commandName="Contribute" description="Contribute to the development and success of the Eclipse IDE!" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmog0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.select.columnPrevious" commandName="Select Previous Column" description="Select the previous column" category="__Vjcug0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__Vsmow0xEeuZPZc-pDA-TA" elementId="org.eclipse.pde.ui.junitWorkbenchShortcut.debug" commandName="Debug JUnit Plug-in Test" description="Debug JUnit Plug-in Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__Vsmow0xEeuZPZc-pDA-TA" elementId="org.eclipse.pde.ui.junitWorkbenchShortcut.debug" commandName="Debug JUnit Plug-in main.Test" description="Debug JUnit Plug-in main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VsmpA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.correction.extractLocalNotReplaceOccurrences.assist" commandName="Quick Assist - Extract local variable" description="Invokes quick assist and selects 'Extract local variable'" category="__Vjc0Q0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VsmpQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchHierarchy" commandName="Toggle Branch Representation" category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmpg0xEeuZPZc-pDA-TA" elementId="org.eclipse.ltk.ui.refactoring.commands.deleteResources" commandName="Delete Resources" description="Delete the selected resources and notify LTK participants." category="__Vjczw0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmpw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.file.print" commandName="Print" description="Print" category="__VjcwQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VsmqA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.debug.ui.commands.AllReferences" commandName="All References" description="Inspect all references to the selected object" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VsmqQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.rerunLast" commandName="Rerun JUnit Test" description="Rerun JUnit Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VsmqQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.junit.junitShortcut.rerunLast" commandName="Rerun JUnit main.Test" description="Rerun JUnit main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmqg0xEeuZPZc-pDA-TA" elementId="org.eclipse.wst.sse.ui.format.active.elements" commandName="Format Active Elements" description="Format active elements" category="__Vjcsg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmqw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.showRulerContextMenu" commandName="Show Ruler Context Menu" description="Show the context menu for the ruler" category="__VjcxA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VsmrA0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.search.references.in.working.set" commandName="References in Working Set" description="Search for references to the selected element in a working set" category="__VjcyQ0xEeuZPZc-pDA-TA"/>
@@ -2274,7 +2274,7 @@
   <commands xmi:id="__VsmsQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.window.spy" commandName="Show Contributing Plug-in" description="Shows contribution information for the currently selected element" category="__VjcxA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmsg0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.help.helpSearch" commandName="Help Search" description="Open the help search" category="__Vjcxg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmsw0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.edit.text.java.infer.type.arguments" commandName="Infer Generic Type Arguments" description="Infer type arguments for references to generic classes and remove unnecessary casts" category="__VjcxQ0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VsmtA0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults.url" commandName="Show Test Results" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VsmtA0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults.url" commandName="Show main.Test Results" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VsmtQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.goto.lineDown" commandName="Line Down" description="Go down one line of text" category="__Vjcug0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmtg0xEeuZPZc-pDA-TA" elementId="org.eclipse.m2e.actions.LifeCycleClean.run" commandName="Run Maven Clean" description="Run Maven Clean" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vsmtw0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition" commandName="Last Edit Location" description="Last edit location" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
@@ -2345,7 +2345,7 @@
   <commands xmi:id="__VtN0g0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.generate.javadoc" commandName="Generate Javadoc" description="Generates Javadoc for a selectable set of Java resources" category="__Vjcxw0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VtN0w0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.RepositoriesViewConfigureGerritRemote" commandName="Gerrit Configuration..." category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VtN1A0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.debug.ui.commands.StepIntoSelection" commandName="Step Into Selection" description="Step into the current selected statement" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__VtN1Q0xEeuZPZc-pDA-TA" elementId="org.eclipse.buildship.ui.shortcut.test.run" commandName="Run Gradle Test" description="Run Gradle test based on the current selection" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__VtN1Q0xEeuZPZc-pDA-TA" elementId="org.eclipse.buildship.ui.shortcut.test.run" commandName="Run Gradle main.Test" description="Run Gradle test based on the current selection" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VtN1g0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.ide.configureColumns" commandName="Configure Columns..." description="Configure the columns in the markers view" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VtN1w0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.team.ReplaceWithCommit" commandName="Replace with commit" category="__VjczQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VtN2A0xEeuZPZc-pDA-TA" elementId="org.eclipse.debug.ui.commands.DebugLast" commandName="Debug" description="Launch in debug mode" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
@@ -2369,7 +2369,7 @@
   <commands xmi:id="__VtN6g0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.internal.reflog.OpenInCommitViewerCommand" commandName="Open in Commit Viewer" category="__Vjc1g0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__VtN6w0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.context.ui.commands.task.retrieveContext" commandName="Retrieve Context" category="__Vjcuw0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vt0wA0xEeuZPZc-pDA-TA" elementId="org.eclipse.egit.ui.team.Fetch" commandName="Fetch" category="__VjczQ0xEeuZPZc-pDA-TA"/>
-  <commands xmi:id="__Vt0wQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.pde.ui.junitWorkbenchShortcut.run" commandName="Run JUnit Plug-in Test" description="Run JUnit Plug-in Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__Vt0wQ0xEeuZPZc-pDA-TA" elementId="org.eclipse.pde.ui.junitWorkbenchShortcut.run" commandName="Run JUnit Plug-in main.Test" description="Run JUnit Plug-in main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vt0wg0xEeuZPZc-pDA-TA" elementId="org.eclipse.jdt.ui.navigate.gotopackage" commandName="Go to Package" description="Go to Package" category="__VjcvQ0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vt0ww0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.window.togglestatusbar" commandName="Toggle Statusbar" description="Toggle the visibility of the bottom status bar" category="__VjcxA0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vt0xA0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.task.ui.editor.QuickOutline" commandName="Quick Outline" description="Show the quick outline for the editor input" category="__VjcvA0xEeuZPZc-pDA-TA"/>
@@ -2385,7 +2385,7 @@
   <commands xmi:id="__Vt0zg0xEeuZPZc-pDA-TA" elementId="org.eclipse.mylyn.context.ui.commands.focus.view" commandName="Focus View" category="__Vjc1g0xEeuZPZc-pDA-TA">
     <parameters xmi:id="__Vt0zw0xEeuZPZc-pDA-TA" elementId="viewId" name="View ID to Focus" optional="false"/>
   </commands>
-  <commands xmi:id="__Vt00A0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.testNgShortcut.coverage" commandName="Coverage TestNG Test" description="Coverage TestNG Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
+  <commands xmi:id="__Vt00A0xEeuZPZc-pDA-TA" elementId="org.eclipse.eclemma.ui.testNgShortcut.coverage" commandName="Coverage TestNG main.Test" description="Coverage TestNG main.Test" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vt00Q0xEeuZPZc-pDA-TA" elementId="org.eclipse.debug.ui.commands.StepReturn" commandName="Step Return" description="Step return" category="__Vjcyg0xEeuZPZc-pDA-TA"/>
   <commands xmi:id="__Vt00g0xEeuZPZc-pDA-TA" elementId="org.eclipse.ui.browser.openBundleResource" commandName="Open Resource in Browser" description="Opens a bundle resource in the default web browser." category="__VjcxA0xEeuZPZc-pDA-TA">
     <parameters xmi:id="__Vt00w0xEeuZPZc-pDA-TA" elementId="plugin" name="Plugin"/>
