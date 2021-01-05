@@ -3,7 +3,7 @@ public class Table implements Element {
     
         private String name;
         
-        public Table(String name) {
+        Table(String name) {
             this.name=name;
         }
     

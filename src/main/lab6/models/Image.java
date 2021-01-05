@@ -10,7 +10,7 @@ public class Image implements Element {
         System.out.println(name);
     }
 
-    public Image(String name) {
+    Image(String name) {
         this.name = name;
         new ImageLoaderFactory().load(name);
         try {
